@@ -31,12 +31,12 @@ function Footer() {
       </div>
 
       <div className='space-y-4 text-xs text-gray-800'>
-        <h5 className='font-bold'>ABOUT</h5>
-        <p className='cursor-pointer'>How Airbnb works</p>
-        <p className='cursor-pointer'>Newsroom</p>
-        <p className='cursor-pointer'>Investors</p>
-        <p className='cursor-pointer'>Airbnb Plus</p>
-        <p className='cursor-pointer'>Airbnb Luxe</p>
+        <h5 className='font-bold'>INFO</h5>
+        <p className='cursor-pointer'>This is not</p>
+        <p className='cursor-pointer'>Official</p>
+        <p className='cursor-pointer'>Airbnb app</p>
+        <p className='cursor-pointer'>This is a</p>
+        <p className='cursor-pointer'>Training site</p>
       </div>
     </footer>
   )
