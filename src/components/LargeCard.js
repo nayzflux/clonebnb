@@ -3,8 +3,8 @@ import React from 'react'
 
 function LargeCard({img, title, description, buttonText}) {
   return (
-    <div className='relative py-16 cursor-pointer'>
-        <div className='relative h-96 min-w-[300px]'>
+    <div className='relative py-16'>
+        <div className='relative h-96 min-w-[300px] cursor-pointer'>
             <Image src={img} layout='fill' objectFit='cover' className='rounded-2xl'/>
         </div>
 
